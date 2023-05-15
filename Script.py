@@ -199,8 +199,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @DQ_The_File_Donor_Bot_Updates
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DQ_The_File_Donor_Support
+▫️ ᴄʜᴀɴɴᴇʟ : @DTupdatez
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @DTGPsupport
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -213,10 +213,10 @@ IMDb Data:
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
-<b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
+<b>Hᴇʏ {}, \nTʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
     
     GFILTER_TXT = """
-<b>Wᴇʟᴄᴏᴍᴇ ᴛᴏ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs. Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs ᴀʀᴇ ᴛʜᴇ ғɪʟᴛᴇʀs sᴇᴛ ʙʏ ʙᴏᴛ ᴀᴅᴍɪɴs ᴡʜɪᴄʜ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴀʟʟ ɢʀᴏᴜᴘs.</b>
+<b>Wᴇʟᴄᴏᴍᴇ ᴛᴏ Gʟᴏʙᴀʟ Fɪʟᴛᴇʀs. \nGʟᴏʙᴀʟ Fɪʟᴛᴇʀs ᴀʀᴇ ᴛʜᴇ ғɪʟᴛᴇʀs sᴇᴛ ʙʏ ʙᴏᴛ ᴀᴅᴍɪɴs ᴡʜɪᴄʜ ᴡɪʟʟ ᴡᴏʀᴋ ᴏɴ ᴀʟʟ ɢʀᴏᴜᴘs.</b>
     
 Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 • /gfilter - <code>Tᴏ ᴄʀᴇᴀᴛᴇ ᴀ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ.</code>
@@ -236,10 +236,10 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-📅 Dᴀᴛᴇ : <code>{}</code>
-⏰ Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
+📅 Dᴀᴛᴇ ⋟ <code>{}</code>
+⏰ Tɪᴍᴇ ⋟ <code>{}</code>
+🌐 Tɪᴍᴇᴢᴏɴᴇ ⋟ <code>Asia/Kolkata</code>
+🛠️ 𐌱ᴜɪʟᴅ S𝜏α𝜏ᥙട ⋟ <code>v2.7.1 [ ട𝜏α𐌱ʟᴇ ]</code></b>"""
 
     LOGO = """
 
