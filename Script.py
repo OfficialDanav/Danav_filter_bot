@@ -1,17 +1,17 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍</b>"""
+    START_TXT = """<b>👋_Hᴇʏ {},
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, \n\nI Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Wᴇʙsᴇʀɪᴇs Aɴᴅ Mᴀɴʏ Mᴏʀᴇ, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ 😍\nI Wᴏʀᴋ 𐍈ɴ 𐌱𝑜𝜏ʜ Gʀᴏᴜᴘ Aɴᴅ ᴘᴍ..</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
-    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/DQ_The_File_Donor_Updates'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
-✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
-✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
+    ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ ⋟ {}
+➢ Cʀᴇᴀᴛᴏʀ ⋟ <a href='https://t.me/DQ_The_File_Donor_Updates'>Jᴏᴇʟ Kᴜʀɪᴀɴ Bɪᴊᴜ</a>
+➢ Lɪʙʀᴀʀʏ ⋟ <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
+➢ Lᴀɴɢᴜᴀɢᴇ ⋟ <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
+➢ Ɗα𝜏αßαടҽ ⋟ <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
+➢ 𐌱𝑜𝜏 Sᴇʀᴠᴇʀ ⋟ <a href='https://app.koyeb.com/'>Kᴏʏᴇʙ</a>
+➢ 𐌱ᴜɪʟᴅ S𝜏α𝜏ᥙട ⋟ v2.7.1 [ ട𝜏α𐌱ʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
