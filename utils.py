@@ -596,7 +596,7 @@ async def send_all(bot, userid, files, ident):
         else:
             pre = 'checksub' 
         btn = [[
-                InlineKeyboardButton("❆ Jᴏɪɴ Oᴜʀ Bᴀᴄᴋ-Uᴘ Cʜᴀɴɴᴇʟ ❆", url=invite_link.invite_link)
+                InlineKeyboardButton("🎒 Jᴏɪɴ Oᴜʀ Bᴀᴄᴋ-Uᴘ Cʜᴀɴɴᴇʟ 🎒", url='https://t.me/DTbackups')
             ],[
                 InlineKeyboardButton("↻ Tʀʏ Aɢᴀɪɴ", callback_data=f"{pre}#send_all")
             ]]
@@ -643,10 +643,10 @@ async def send_all(bot, userid, files, ident):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                        InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                        InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                        InlineKeyboardButton('✨Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ✨', url='https://t.me/DTGPsupport'),
+                        InlineKeyboardButton('⚡Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ⚡', url='https://t.me/DTupdatez')
                     ],[
-                        InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                        InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/SAHARAN_09")
                         ]
                     ]
                 )
